@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mra-sami&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /></p>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHPy_L4nse96g/profile-displaybackgroundimage-shrink_350_1400/B56Zd5zEPoHUAc-/0/1750095120397?e=1756944000&v=beta&t=8IKinS8ae3_6hnxDGy881x_uIvrBEt14J5Gp0YymVGA" width="100%" />
 </p>
@@ -48,13 +49,10 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razimalsami&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=razimalsami&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRA-Sami\&show_icons=true\&theme=tokyonight)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRA-Sami&show_icons=true&locale=en&layout=compact" alt="MRA-Sami"/>
 
 ---
 
