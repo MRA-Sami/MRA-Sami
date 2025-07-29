@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mra-sami&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mra-sami&label=Profile%20views&color=0e75b6&style=flat" alt="mra-sami" /></p>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHPy_L4nse96g/profile-displaybackgroundimage-shrink_350_1400/B56Zd5zEPoHUAc-/0/1750095120397?e=1756944000&v=beta&t=8IKinS8ae3_6hnxDGy881x_uIvrBEt14J5Gp0YymVGA" width="100%" />
 </p>
