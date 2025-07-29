@@ -5,6 +5,11 @@
 
 ---
 
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGRDeWFPoxYNw/profile-displayphoto-shrink_800_800/B56Zd5I7zMHoAc-/0/1750084075426?e=1756944000&v=beta&t=Ucu-5g2Xk8PEEvVkeNH2ZTV1dZptJgeSUJuXjEvD4Lk" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+</p>
+
 <h2 align="center">I'm Md. Razim Al Sami — Welcome to my GitHub Profile! 👨‍💻</h2>
 
 <p align="center">
