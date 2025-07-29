@@ -78,7 +78,7 @@
 
 ### 🤲 
 
-> **"Indeed, Allah loves those who strive for excellence in all they do."**  
+> **Spend in the cause of Allah and do not let your own hands throw you into destruction ˹by withholding˺. And do good, for Allah certainly loves the good-doers."**  
 > — *Surah Al-Baqarah 2:195*
 
 ---
