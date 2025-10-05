@@ -55,10 +55,10 @@
 
 ---
 
-### 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/razimalsami/razimalsami/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/razimalsami/razimalsami/output/github-contribution-grid-snake.svg"
+       alt="GitHub contribution snake"
+       style="max-width:100%; height:auto;">
 </p>
 
 ---
