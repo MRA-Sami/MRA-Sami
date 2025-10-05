@@ -15,11 +15,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 BSc in Computer Science (Ongoing)
+- 🎓 BSc in Computer Science and Engineering (Ongoing)
 - 📘 Author of a 200+ page book on **Compiler Design** (LaTeX)
 - 🔬 Interested in **Parsing Algorithms**, **Assembly (8086)**, and **System Software**
 - 🛠 Working on a full-featured **Employee Management System** in Python
-- 🌱 Currently learning advanced compiler techniques (LR, SLR, LALR)
 
 ---
 
