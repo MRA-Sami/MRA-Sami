@@ -8,7 +8,7 @@
 <h2 align="center">I'm Md. Razim Al Sami — Welcome to my GitHub Profile! 👨‍💻</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2B83F6&center=true&vCenter=true&width=435&lines=Computer+Science+and+Engineering+Student;LaTeX+Book+Author;Compiler+Design+Researcher;Python+%7C+C+%7C+Assembly+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2B83F6&center=true&vCenter=true&width=435&lines= Computer+Science+and+Engineering+Student;LaTeX+Book+Author;Compiler+Design+Researcher;Python+%7C+C+%7C+Assembly+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
