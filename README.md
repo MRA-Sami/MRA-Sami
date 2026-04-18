@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/D5616AQHPy_L4nse96g/profile-displaybackgroundimage-shrink_350_1400/0/1750095120397?e=1756944000&v=beta&t=8IKinS8ae3_6hnxDGy881x_uIvrBEt14J5Gp0YymVGA](https://media.licdn.com/dms/image/v2/D5616AQHPy_L4nse96g/profile-displaybackgroundimage-shrink_350_1400/B56Zd5zEPoHUAc-/0/1750095120397?e=1778112000&v=beta&t=JJxj01r3KQNOkfBjnwmKU8Aeo7Z687WOEk8WnY6F20Q)" width="100%" alt="LinkedIn Cover Photo" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHPy_L4nse96g/profile-displaybackgroundimage-shrink_350_1400/B56Zd5zEPoHUAc-/0/1750095120397?e=1778112000&v=beta&t=JJxj01r3KQNOkfBjnwmKU8Aeo7Z687WOEk8WnY6F20Q" alt="LinkedIn Cover Photo" />
 </p>
 
 <h2 align="center">I'm Md. Razim Al Sami — Welcome to my GitHub Profile! 👨‍💻</h2>
